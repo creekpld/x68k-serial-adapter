@@ -12,6 +12,8 @@ Parts needed are only a male DB25 and a female DB9 solder typ connector that con
 
 ![3D Model](img/3d-model.png)
 
+![Prototype Assembled](img/proto-1.0-assembled.jpeg)
+
 [Prototype Top](img/proto-1.0-top.jpeg)
 
 [Prototype Bottom](img/proto-1.0-bottom.jpeg)
