@@ -1,3 +1,7 @@
+# This is not the Repo you are looking for! :alien:
+
+New development is taking place in [gitlab.com/pdylong/x68k-serial-adapter](https://gitlab.com/pdylong/x68k-serial-adapter) :ok_hand:.
+
 # x68k-serial-adapter
 
 An RS-232c (DB25) to null modem cable (DB9) Adapter for the [X68000](https://en.wikipedia.org/wiki/X68000).
